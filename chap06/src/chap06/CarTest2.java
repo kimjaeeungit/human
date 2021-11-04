@@ -7,6 +7,7 @@ class Car{
 	
 	Car(){
 		this("white","auto",4);
+		
 	}
 	Car(String color){
 		this(color,"auto",4);
